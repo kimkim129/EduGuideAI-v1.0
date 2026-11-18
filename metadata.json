@@ -1,0 +1,6 @@
+{
+  "name": "EduGuide AI – Hướng nghiệp thông minh",
+  "description": "Ứng dụng tư vấn định hướng nghề nghiệp và hỗ trợ học sinh trúng tuyển lớp 10 lựa chọn tổ hợp môn học phù hợp theo chương trình GDPT 2018 tại Đà Nẵng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
